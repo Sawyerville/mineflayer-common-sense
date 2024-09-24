@@ -40,6 +40,7 @@ export const DefaultCommonSenseOptions: ICommonSenseOptions = {
   mlgItems: [
     { name: "water_bucket", disallowedDimensons: ["nether"] },
     { name: "boat", maxDistance: 30 },
+    { name: "twisting_vines" },
     { name: "sweet_berries", allowedBlocks: ["grass"] },
     { name: "slime_block" },
     { name: "hay_block" },
